@@ -1,3 +1,3 @@
 print("Hello World!");
-
-print("Hi This is part of the new branch");
+print("Hello World!")
+print("LiL T, you a mad genius bruh")
